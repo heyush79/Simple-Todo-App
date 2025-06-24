@@ -1,0 +1,14 @@
+# React
+node_modules/
+.env
+build/
+
+# Java
+target/
+.classpath
+.project
+.settings/
+
+# General
+.DS_Store
+*.log
