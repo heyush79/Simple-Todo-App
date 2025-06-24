@@ -63,8 +63,15 @@ npm install
 npm start
 Access at: http://localhost:3000
 ### Backend Setup
+2. Navigate to backend directory
    ```bash
    cd demo
 mvn spring-boot:run
+
+![image](https://github.com/user-attachments/assets/cbbf6418-1024-4345-9177-206499d8144e)
+
+Author
+Ayush Bundela
+
 
  
